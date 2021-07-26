@@ -4,3 +4,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EikerYejan&repo=Tasker)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EikerYejan&repo=Markdown)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EikerYejan&repo=HackerNews)](https://github.com/anuraghazra/github-readme-stats) -->
+
+ ![Visitors](https://page-views.glitch.me/badge?page_id=EikerYejan.EikerYejan)
